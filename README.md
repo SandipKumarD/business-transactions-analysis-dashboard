@@ -1,97 +1,105 @@
-📊 Business Transactions Analysis Dashboard
+# 📊 Business Transactions Analysis Dashboard
 
-This project presents an interactive Business Transactions Analysis Dashboard built using Power BI to analyze retail sales performance and customer purchasing behavior.
+## 📌 Project Overview
+This project presents an interactive **Business Transactions Analysis Dashboard built using Power BI** to analyze retail sales performance and customer purchasing behavior.
 
-The goal of this project is to help businesses identify top-performing products, key markets, and sales trends to support better data-driven decisions.
+The objective of this dashboard is to help businesses identify **top-performing products, key markets, and sales trends to support better data-driven decision making**.
 
-📁 Dataset Overview
+---
 
+## 📁 Dataset Overview
 The dataset contains retail transaction information including:
 
-Transaction ID
+- Transaction ID  
+- Product details  
+- Customer information  
+- Country of purchase  
+- Quantity and price  
+- Transaction date  
 
-Product details
+---
 
-Customer information
+## 📊 Dataset Summary
 
-Country of purchase
+| Metric | Value |
+|------|------|
+| Total Orders | 536K+ |
+| Total Customers | 4,739 |
+| Total Products Sold | 5M+ |
+| Total Revenue | 60.28M |
 
-Quantity and price
+---
 
-Transaction date
+## 📌 Key KPIs Analyzed
 
-Dataset Summary
-Metric	Value
-Total Orders	536K+
-Total Customers	4,739
-Total Products Sold	5M+
-Total Revenue	60.28M
-📌 Key KPIs Analyzed
+- Total Revenue  
+- Total Orders  
+- Total Customers  
+- Total Quantity Sold  
+- Top Revenue Generating Product  
+- Top Countries by Revenue  
+- Product Usage by Customers  
+- Monthly Revenue Trend  
 
-The dashboard tracks the following key business metrics:
+---
 
-Total Revenue
+## 📈 Key Insights
 
-Total Orders
+- The business generated **60.28M in total revenue** across all transactions.  
+- A total of **536K orders** were placed by **4,739 customers**, showing strong customer activity.  
+- **Sales remain generally stable across months**, with occasional peaks indicating seasonal demand.  
+- Over **5 million product units** were sold during the analysis period.  
+- The **United Kingdom dominates revenue contribution**, significantly outperforming other countries.  
+- **Popcorn Holder** emerged as the **highest revenue-generating product**.  
+- Products like **Regency Cakestand 3 Tier** and **Cream Hanging Heart T-Light Holder** are among the most frequently purchased items by customers.
 
-Total Customers
+---
 
-Total Quantity Sold
+## 💡 Business Recommendations
 
-Top Revenue Generating Product
+- Focus more on **top-selling products**, as they generate the highest revenue.  
+- Strengthen marketing efforts in **high-revenue countries** to further increase sales.  
+- Use **seasonal sales trends** to plan promotions during slower months.
 
-Top Countries by Revenue
+---
 
-Product Usage by Customers
+## 📊 Dashboard Features
 
-Monthly Revenue Trend
+- Interactive **Year filter**
+- **Country-based filtering**
+- **Monthly revenue trend analysis**
+- **Top products by revenue**
+- **Top countries by revenue**
+- **Customer purchase behavior analysis**
 
-📈 Key Insights
+---
 
-• The business generated 60.28M in total revenue across all transactions.
+## 🛠 Tools & Technologies Used
 
-• A total of 536K orders were placed by 4,739 customers, showing strong customer activity.
+- Power BI  
+- Data Cleaning  
+- Data Modeling  
+- Data Visualization
 
-• Sales remain generally stable across months, with occasional peaks indicating seasonal demand.
+---
 
-• Over 5 million product units were sold during the analysis period.
+## 📂 Project Structure
 
-• The United Kingdom dominates revenue contribution, significantly outperforming other countries.
+business-transactions-analysis-dashboard
+│
+├── data
+│   └── sales_data.xlsx
+│
+├── dashboard
+│   └── sales_dashboard.pbix
+│
+├── images
+│   └── dashboard_preview.png
+│
+└── README.md
 
-• Popcorn Holder emerged as the highest revenue-generating product.
+---
 
-• Products like Regency Cakestand 3 Tier and Cream Hanging Heart T-Light Holder are among the most frequently purchased items by customers.
+## 🚀 Project Outcome
 
-💡 Business Recommendations
-
-• Focus more on top-selling products, as they generate the highest revenue.
-
-• Strengthen marketing efforts in high-revenue countries to further increase sales.
-
-• Use seasonal sales trends to plan promotions during slower months.
-
-📊 Dashboard Features
-
-The Power BI dashboard includes:
-
-Interactive Year filter
-
-Country-based filtering
-
-Monthly revenue trend analysis
-
-Top products by revenue
-
-Top countries by revenue
-
-Customer purchase behavior analysis
-
-🛠 Tools & Technologies Used
-
-Power BI
-
-Data Cleaning
-
-Data Modeling
-
-Data Visualization
+This dashboard provides **valuable insights into product performance, customer purchasing behavior, and geographic sales distribution**, enabling businesses to make **better strategic decisions using data**.
