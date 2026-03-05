@@ -80,24 +80,6 @@ The dataset contains retail transaction information including:
 - Data Cleaning  
 - Data Modeling  
 - Data Visualization
-
----
-
-## 📂 Project Structure
-
-business-transactions-analysis-dashboard
-│
-├── data
-│   └── sales_data.xlsx
-│
-├── dashboard
-│   └── sales_dashboard.pbix
-│
-├── images
-│   └── dashboard_preview.png
-│
-└── README.md
-
 ---
 
 ## 🚀 Project Outcome
